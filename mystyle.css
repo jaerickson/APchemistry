@@ -2,10 +2,16 @@ h1{
 	font-family: arial;
 }
 
-#question{
+#header{
 	font-family: arial;
 }
 
-#question{
+.question{
 	font-family: arial;
+	display: none;
+}
+
+.answer{
+	font-family: arial;
+	display: none;
 }
