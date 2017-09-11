@@ -3,4 +3,25 @@ $(document).ready(function(){
 		$("#q1").show();
 		$("#strt").hide();
 	});
+	$("#ans1").click(function(){
+		$("#a1").show();
+		$("#ans1").hide();
+	});
+	$("#gtq2").click(function(){
+		$("#q2").show();
+		$("#gtq2").hide();
+	});
+	$("#ans2").click(function(){
+		$("#a2").show();
+		$("#ans2").hide();
+	});
+	$("#gtq3").click(function(){
+		$("#q3").show();
+		$("#gtq3").hide();
+	});
+	$("#ans3").click(function(){
+		$("#a3").show();
+		$("#ans3").hide();
+	});
+
 });
